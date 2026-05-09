@@ -1,6 +1,6 @@
 # Accelerated Library Integrations
 
-Examples of NVIDIA accelerated libraries in action. Each subfolder demonstrates a single library through hands-on usage and a real-world workflow.
+Examples of NVIDIA accelerated libraries in action. These libraries make up the CUDA layer of AI's 5-layer cake (energy, chips, infrastructure, models, applications), turning chips into usable infrastructure for the models and applications stacked on top. Each subfolder demonstrates a single library through hands-on usage and a real-world workflow.
 
 ## Contributing
 
