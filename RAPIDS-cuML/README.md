@@ -105,6 +105,7 @@ This connects to AIPS:
 
 ## Helpful Links
 
+- [Kaggle dataset](https://github.com/tokelde/First_Project_with_Scikit-Learn_MachineLearning/tree/main)
 - [Official Documentation](https://docs.rapids.ai/api/cuml/stable/)
 - [Installation Guide](https://docs.rapids.ai/install/)
 - [GitHub Repository](https://github.com/rapidsai/cuml)
@@ -112,4 +113,4 @@ This connects to AIPS:
 
 ## Contributor
 
-Andy V
+Andy Vu
