@@ -112,7 +112,7 @@ This connects to AIPS:
 - **Integrate:** use cuDNN through standard frameworks rather than rewriting an
   application from scratch.
 - **Promote:** show a clear before/after benchmark and an Nsight Systems view of
-  fused GPU work.
+  cuDNN-backed GPU execution.
 - **Sell:** position NVIDIA GPUs as the easiest way to speed up existing deep
   learning products.
 
@@ -132,7 +132,8 @@ This connects to AIPS:
 - `requirements-torch-cu128.txt` - CUDA 12.8 PyTorch install requirements.
 - `requirements.txt` - charting and notebook dependencies.
 - `results/` - CSV outputs from Brev L4 and DGX Spark.
-- `screenshots/` - benchmark plots and optional Nsight Systems screenshots.
+- `screenshots/` - benchmark plots and optional Nsight Systems reports or
+  screenshots.
 
 ## Helpful Links
 

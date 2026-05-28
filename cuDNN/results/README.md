@@ -6,9 +6,9 @@ Recommended filenames:
 
 - `brev_l4.csv`
 - `dgx_spark.csv`
-- `nsys_capture.csv`
+- `brev_l4_single_inference.csv`
 
-The CSV columns are:
+The benchmark CSV columns are:
 
 - `platform_label`
 - `benchmark`
@@ -19,3 +19,15 @@ The CSV columns are:
 - `latency_ms`
 - `throughput_img_s`
 - `speedup_vs_cpu`
+
+The single-inference Nsight CSV uses:
+
+- `platform_label`
+- `workload`
+- `mode`
+- `run`
+- `device_name`
+- `cudnn_version`
+- `batch_size`
+- `wall_latency_ms`
+- `cuda_event_ms`
